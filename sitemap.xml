@@ -1,142 +1,148 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://pensionadeco.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/4.1.1" -->
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://localhost/pensionadeco-online/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/4.1.7" -->
 <!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.3" -->
-<!-- generated-on="22 March, 2015 5:33 pm" -->
+<!-- generated-on="2 September, 2015 2:52 pm" -->
 <!-- Debug: Total comment count: 0 -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
-		<loc>http://pensionadeco.com/</loc>
-		<lastmod>2014-03-26T17:19:54+00:00</lastmod>
+		<loc>http://localhost/pensionadeco-online/</loc>
+		<lastmod>2015-09-02T14:52:32+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 <!-- Debug: Start Postings -->
 	<url>
-		<loc>http://pensionadeco.com/localizacion/</loc>
+		<loc>http://localhost/pensionadeco-online/asdasd/</loc>
+		<lastmod>2015-09-02T14:52:32+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/pensionadeco-online/localizacion/</loc>
 		<lastmod>2014-03-26T17:19:54+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://pensionadeco.com/contacto/?lang=en</loc>
+		<loc>http://localhost/pensionadeco-online/contacto/?lang=en</loc>
 		<lastmod>2014-03-26T17:17:13+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://pensionadeco.com/contacto/</loc>
+		<loc>http://localhost/pensionadeco-online/contacto/?lang=fr</loc>
 		<lastmod>2014-03-26T17:14:47+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://pensionadeco.com/contacto/?lang=de</loc>
+		<loc>http://localhost/pensionadeco-online/contacto/?lang=de</loc>
 		<lastmod>2014-03-26T17:14:47+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://pensionadeco.com/contacto/?lang=fr</loc>
+		<loc>http://localhost/pensionadeco-online/contacto/</loc>
 		<lastmod>2014-03-26T17:14:47+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://pensionadeco.com/fotografias/?lang=de</loc>
+		<loc>http://localhost/pensionadeco-online/fotografias/?lang=de</loc>
 		<lastmod>2014-03-26T16:28:39+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://pensionadeco.com/fotografias/?lang=en</loc>
+		<loc>http://localhost/pensionadeco-online/fotografias/?lang=fr</loc>
 		<lastmod>2014-03-26T16:28:38+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://pensionadeco.com/fotografias/?lang=fr</loc>
+		<loc>http://localhost/pensionadeco-online/fotografias/?lang=en</loc>
 		<lastmod>2014-03-26T16:28:38+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://pensionadeco.com/fotografias/</loc>
+		<loc>http://localhost/pensionadeco-online/fotografias/</loc>
 		<lastmod>2014-03-26T16:28:38+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://pensionadeco.com/habitaciones/</loc>
+		<loc>http://localhost/pensionadeco-online/habitaciones/</loc>
 		<lastmod>2013-10-01T17:52:13+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://pensionadeco.com/habitaciones/?lang=de</loc>
+		<loc>http://localhost/pensionadeco-online/habitaciones/?lang=de</loc>
 		<lastmod>2013-10-01T17:46:53+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://pensionadeco.com/habitaciones/?lang=fr</loc>
+		<loc>http://localhost/pensionadeco-online/habitaciones/?lang=fr</loc>
 		<lastmod>2013-10-01T17:40:27+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://pensionadeco.com/habitaciones/?lang=en</loc>
+		<loc>http://localhost/pensionadeco-online/habitaciones/?lang=en</loc>
 		<lastmod>2013-10-01T17:39:59+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://pensionadeco.com/nosotros/?lang=fr</loc>
+		<loc>http://localhost/pensionadeco-online/nosotros/?lang=fr</loc>
 		<lastmod>2013-09-27T09:31:27+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://pensionadeco.com/nosotros/?lang=en</loc>
+		<loc>http://localhost/pensionadeco-online/nosotros/?lang=en</loc>
 		<lastmod>2013-09-27T09:31:15+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://pensionadeco.com/nosotros/?lang=de</loc>
+		<loc>http://localhost/pensionadeco-online/nosotros/?lang=de</loc>
 		<lastmod>2013-09-27T09:30:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://pensionadeco.com/localizacion/?lang=de</loc>
+		<loc>http://localhost/pensionadeco-online/localizacion/?lang=de</loc>
 		<lastmod>2013-09-27T09:29:56+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://pensionadeco.com/localizacion/?lang=fr</loc>
+		<loc>http://localhost/pensionadeco-online/localizacion/?lang=fr</loc>
 		<lastmod>2013-09-27T09:29:10+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://pensionadeco.com/localizacion/?lang=en</loc>
+		<loc>http://localhost/pensionadeco-online/localizacion/?lang=en</loc>
 		<lastmod>2013-09-27T09:27:30+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://pensionadeco.com/nosotros/</loc>
+		<loc>http://localhost/pensionadeco-online/nosotros/</loc>
 		<lastmod>2013-09-27T08:55:26+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://pensionadeco.com/service/</loc>
+		<loc>http://localhost/pensionadeco-online/service/</loc>
 		<lastmod>2013-09-27T08:45:49+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://pensionadeco.com/learn-more/</loc>
+		<loc>http://localhost/pensionadeco-online/learn-more/</loc>
 		<lastmod>2013-09-25T16:21:45+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
