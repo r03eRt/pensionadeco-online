@@ -1,0 +1,98 @@
+	/*Bookassist Starts*/
+	a img{
+	border:none;
+	}
+	img{
+	padding:0px;
+	margin:0px;
+	}
+	
+	#Layer2 {
+	position:absolute;
+	width:700px;
+	height:30px;
+	z-index:1;
+	top:5px;
+}
+		#bookassist_form{
+			font-family: verdana;
+			font-size:12px;
+			text-transform:capitalize;
+			text-align:center;
+			color: #333333;
+			overflow:visible;
+			width:760px;
+			height:43px;
+			
+		}
+		#bookassist_form #DatesForm{
+		margin-top:3px;
+		text-align:center;
+			overflow:hidden;
+			
+		}
+		#bookassist_form .search_title{
+		margin:12px 30px 0px 0px;
+		font-weight:bold;
+		font-size:13px;
+		}
+		#bookassist_form label{
+		margin-top:15px;
+		margin-left:10px;
+		}
+		#bookassist_form .date_select{
+		margin-top:12px;
+			font-size:10px;
+			color: #333333;
+			margin-left:2px;
+			padding:0;
+		}
+		#bookassist_form #DatesForm #inday{
+		width:42px;
+		}
+		#bookassist_form #DatesForm #outday{
+		width:42px;
+		}
+		#bookassist_form #DatesForm #inmonthyear{
+		width:80px;
+		}
+		#bookassist_form #DatesForm #outmonthyear{
+		width:80px;
+		}
+		
+		#bookassist_form .date_input{
+		margin:13px 0px 0px 20px;
+			text-transform: capitalize;
+			 color: #333333;
+			background: #FFFFCC;
+			border:1px solid #990000;
+			font-size:11px;
+			width:70px;
+			text-transform:capitalize;
+			font-weight:bold;
+			padding:0px;
+			
+		}
+		#ba_javascript p{
+margin:0px 0px 0px 5px;
+padding:0px;
+font-family:verdana;
+text-align:center;
+			font-size:11px;
+			color: #FFFFFF;
+}
+#ba_javascript a{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color: #FFFF99;
+text-decoration:underline;
+}
+#bookassist_form img{ 
+		margin:0px 0px -5px 3px;
+	}
+	#calendar{
+	overflow:hidden;
+	margin-top:-140px;
+}
+ /*Bookassist Starts*/
+ 

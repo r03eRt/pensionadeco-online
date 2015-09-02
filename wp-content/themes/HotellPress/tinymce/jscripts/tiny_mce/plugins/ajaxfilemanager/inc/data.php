@@ -1,0 +1,3 @@
+{error:'', size:'134.6 KB', atime:'1287118908', ctime:'15/Oct/2010 05:01:48', mtime:'15/Oct/2010 05:01:48', path:'../../../../../uploads/kieu3.jpg', name:'kieu3.jpg', is_writable:'1', is_readable:'1', cssClass:'filePicture', fileType:'image', preview:'1', type:'file', url:'http://localhost:8/wordpress/wp-content/themes/hotel/uploads/kieu3.jpg', tipedit:'Double Click to edit...'}
+
+15/Oct/2010 05:01:48

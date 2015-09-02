@@ -1,0 +1,2839 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: QnA\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-01 08:59+0700\n"
+"PO-Revision-Date: 2011-08-01 09:15+0700\n"
+"Last-Translator: Trieu <anhchanglongnhong2006@yahoo.com.vn>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:4
+#: 404.php:14
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:16
+msgid "Sorry, this page not exist. Click "
+msgstr ""
+
+#: 404.php:17
+msgid "here"
+msgstr ""
+
+#: 404.php:18
+msgid "to redirect home"
+msgstr ""
+
+#: booking-option.php:39
+msgid "Booking Options"
+msgstr ""
+
+#: booking-option.php:59
+#: booking.php:87
+msgid "Arrival/Check-in"
+msgstr ""
+
+#: booking-option.php:64
+#: booking.php:92
+msgid "Departure/Check-out"
+msgstr ""
+
+#: booking-option.php:69
+#: booking.php:102
+msgid "Number Rooms"
+msgstr ""
+
+#: booking-option.php:74
+#: booking.php:107
+msgid "Occupancy"
+msgstr ""
+
+#: booking-option.php:75
+#: booking.php:108
+msgid "Adult(s)"
+msgstr ""
+
+#: booking-option.php:97
+#: booking.php:131
+msgid "Day(s)"
+msgstr ""
+
+#: booking-option.php:131
+msgid "See more"
+msgstr ""
+
+#: booking-option.php:134
+msgid "Rooms"
+msgstr ""
+
+#: booking-option.php:144
+#: booking-option.php:203
+msgid "Room"
+msgstr ""
+
+#: booking-option.php:177
+#: booking-option.php:215
+msgid "Person"
+msgstr ""
+
+#: booking-option.php:179
+#: booking-option.php:217
+msgid "Persons"
+msgstr ""
+
+#: booking-option.php:292
+msgid "Services"
+msgstr ""
+
+#: booking-option.php:314
+msgid "Coupon Code"
+msgstr ""
+
+#: booking-option.php:350
+#: booking.php:250
+#: booking.php:494
+#: booking.php:543
+#: booking_sub.php:141
+msgid "Change Date"
+msgstr ""
+
+#: booking-option.php:367
+#: booking.php:405
+msgid "Continue"
+msgstr ""
+
+#: booking.php:36
+#: booking.php:75
+msgid "Booking payment"
+msgstr ""
+
+#: booking.php:42
+#: booking.php:81
+msgid "Booking"
+msgstr ""
+
+#: booking.php:43
+#: booking_sub.php:150
+msgid "Booking has a problem, please try again"
+msgstr ""
+
+#: booking.php:47
+msgid "Back"
+msgstr ""
+
+#: booking.php:97
+msgid "Rooms Type"
+msgstr ""
+
+#: booking.php:135
+msgid "Price room(s)"
+msgstr ""
+
+#: booking.php:207
+msgid "Promotion"
+msgstr ""
+
+#: booking.php:219
+msgid "TAX"
+msgstr ""
+
+#: booking.php:227
+msgid "Deposit"
+msgstr ""
+
+#: booking.php:232
+msgid "Total Charges"
+msgstr ""
+
+#: booking.php:258
+msgid "Traveller Details"
+msgstr ""
+
+#: booking.php:265
+msgid "Title :"
+msgstr ""
+
+#: booking.php:267
+msgid "Mr."
+msgstr ""
+
+#: booking.php:268
+msgid "Mrs."
+msgstr ""
+
+#: booking.php:269
+msgid "Ms."
+msgstr ""
+
+#: booking.php:273
+msgid "First Name :"
+msgstr ""
+
+#: booking.php:278
+msgid "Phone :"
+msgstr ""
+
+#: booking.php:283
+msgid "City/State :"
+msgstr ""
+
+#: booking.php:290
+msgid "Email :"
+msgstr ""
+
+#: booking.php:295
+msgid "Last Name :"
+msgstr ""
+
+#: booking.php:304
+msgid "Country :"
+msgstr ""
+
+#: booking.php:317
+msgid "Street :"
+msgstr ""
+
+#: booking.php:344
+msgid "I agree to purchase online."
+msgstr ""
+
+#: booking.php:352
+msgid "Paypal"
+msgstr ""
+
+#: booking.php:353
+msgid "2Checkout"
+msgstr ""
+
+#: booking.php:372
+msgid "I agree to purchase by cash."
+msgstr ""
+
+#: booking.php:393
+msgid "Yes, I checked the all information and agree to booking online."
+msgstr ""
+
+#: booking.php:398
+msgid "Terms &amp; Conditions"
+msgstr ""
+
+#: booking.php:421
+msgid "Customer"
+msgstr ""
+
+#: booking.php:426
+msgid "Email"
+msgstr ""
+
+#: booking.php:431
+msgid "Phone"
+msgstr ""
+
+#: booking.php:436
+msgid "Country"
+msgstr ""
+
+#: booking.php:441
+msgid "State"
+msgstr ""
+
+#: booking.php:446
+msgid "Street"
+msgstr ""
+
+#: booking.php:451
+msgid "Payment Method"
+msgstr ""
+
+#: booking.php:500
+msgid "Confirm"
+msgstr ""
+
+#: booking.php:549
+#: booking_sub.php:142
+msgid "Confirm & Pay"
+msgstr ""
+
+#: booking_sub.php:24
+msgid "Street is not blank !"
+msgstr ""
+
+#: booking_sub.php:29
+msgid "Phone is not blank !"
+msgstr ""
+
+#: booking_sub.php:34
+msgid "Last name is not blank !"
+msgstr ""
+
+#: booking_sub.php:39
+msgid "First name is not blank !"
+msgstr ""
+
+#: booking_sub.php:44
+msgid "Email is not blank or invalid !"
+msgstr ""
+
+#: booking_sub.php:49
+msgid "State is not blank !"
+msgstr ""
+
+#: booking_sub.php:92
+msgid "Purchase online"
+msgstr ""
+
+#: booking_sub.php:110
+msgid "Cash"
+msgstr ""
+
+#: booking_sub.php:160
+msgid "You should check the agreement with using booking online service!"
+msgstr ""
+
+#: category.php:7
+msgid "Hotel"
+msgstr ""
+
+#: category.php:35
+msgid " BY "
+msgstr ""
+
+#: category.php:37
+msgid "1 comment"
+msgstr ""
+
+#: category.php:37
+#, php-format
+msgid "%s comments"
+msgstr ""
+
+#: category.php:46
+msgid "more..."
+msgstr ""
+
+#: category.php:60
+msgid "No Content Available!"
+msgstr ""
+
+#: category.php:67
+msgid "Sorry, but this section has no content!"
+msgstr ""
+
+#: check_result.php:20
+#: check_result.php:31
+msgid "Booking Detail"
+msgstr ""
+
+#: check_result.php:37
+msgid "First Name"
+msgstr ""
+
+#: check_result.php:42
+msgid "Last Name"
+msgstr ""
+
+#: check_result.php:47
+msgid "Arrival Date"
+msgstr ""
+
+#: check_result.php:52
+msgid "Departure Date"
+msgstr ""
+
+#: check_result.php:61
+msgid "Room name"
+msgstr ""
+
+#: check_result.php:62
+msgid "Bed Type"
+msgstr ""
+
+#: check_result.php:63
+msgid "Pet"
+msgstr ""
+
+#: check_result.php:64
+msgid "Smoking"
+msgstr ""
+
+#: check_result.php:74
+#: check_result.php:75
+msgid "Yes"
+msgstr ""
+
+#: check_result.php:74
+#: check_result.php:75
+msgid "No"
+msgstr ""
+
+#: check_result.php:86
+msgid "Code does not exist, please check again"
+msgstr ""
+
+#: check_result.php:93
+msgid "Print this page"
+msgstr ""
+
+#: comment-form.php:15
+msgid "Name is required, please check again"
+msgstr ""
+
+#: comment-form.php:21
+msgid "Email is required, please check again"
+msgstr ""
+
+#: comment-form.php:27
+msgid "Email is invalid, please check again"
+msgstr ""
+
+#: comment-form.php:34
+msgid "Comment is required, please check again"
+msgstr ""
+
+#: comment-form.php:44
+msgid "Post Your Comment"
+msgstr ""
+
+#: comment-form.php:60
+msgid "You must be "
+msgstr ""
+
+#: comment-form.php:61
+msgid "loggin in"
+msgstr ""
+
+#: comment-form.php:62
+msgid " to post a comment"
+msgstr ""
+
+#: comment-form.php:78
+msgid "Logged in as "
+msgstr ""
+
+#: comment-form.php:80
+msgid "Log out of this account"
+msgstr ""
+
+#: comment-form.php:80
+msgid "Log out &raquo;"
+msgstr ""
+
+#: comment-form.php:90
+msgid "Your Name:"
+msgstr ""
+
+#: comment-form.php:95
+msgid "E-mail Address:"
+msgstr ""
+
+#: comment-form.php:102
+msgid "Comment:"
+msgstr ""
+
+#: comment-form.php:109
+msgid "Submit"
+msgstr ""
+
+#: comments.php:12
+msgid "Comment"
+msgstr ""
+
+#: comments.php:12
+msgid "Comment (1)"
+msgstr ""
+
+#: comments.php:12
+msgid "Comments (%)"
+msgstr ""
+
+#: contact.php:111
+#: page.php:297
+msgid " received your email. We will reply as soon as. Thank you."
+msgstr ""
+
+#: contact.php:130
+#: page.php:316
+msgid "Can not send your e-mail to "
+msgstr ""
+
+#: contact.php:147
+#: page.php:333
+msgid "Your Name(*):"
+msgstr ""
+
+#: contact.php:152
+#: page.php:338
+msgid "E-mail Address(*):"
+msgstr ""
+
+#: contact.php:165
+#: page.php:351
+msgid "Phone Number(*):"
+msgstr ""
+
+#: contact.php:175
+#: page.php:361
+msgid "Message(*):"
+msgstr ""
+
+#: contact.php:190
+#: page.php:376
+msgid "Send Message"
+msgstr ""
+
+#: contact.php:208
+#: page.php:420
+msgid "* Enter your name."
+msgstr ""
+
+#: contact.php:209
+#: page.php:421
+msgid "* Enter your e-mail."
+msgstr ""
+
+#: contact.php:210
+#: page.php:422
+msgid "* Email invalid."
+msgstr ""
+
+#: contact.php:211
+#: page.php:423
+msgid "* Enter your phone number."
+msgstr ""
+
+#: contact.php:212
+#: page.php:424
+msgid "* Phone number invalid."
+msgstr ""
+
+#: contact.php:213
+#: page.php:425
+msgid "* Enter your message."
+msgstr ""
+
+#: footer.php:22
+#: header-index.php:183
+msgid "close"
+msgstr ""
+
+#: footer.php:23
+msgid "Search for available rooms"
+msgstr ""
+
+#: header-index.php:24
+#: header.php:31
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: header-index.php:125
+#: header-index.php:132
+#: header.php:118
+#: header.php:125
+msgid "Hotel Logo"
+msgstr ""
+
+#: header-index.php:142
+#: header.php:135
+msgid "24/7 Contact"
+msgstr ""
+
+#: header-index.php:149
+#: header.php:142
+msgid "phone"
+msgstr ""
+
+#: header-index.php:172
+#: header.php:164
+msgid "Reservations"
+msgstr ""
+
+#: header-index.php:181
+#: header.php:174
+msgid "Online Booking"
+msgstr ""
+
+#: index.php:74
+msgid "BOOKING"
+msgstr ""
+
+#: index.php:90
+msgid "Adults"
+msgstr ""
+
+#: index.php:103
+msgid "Kids"
+msgstr ""
+
+#: index.php:104
+msgid "1"
+msgstr ""
+
+#: index.php:105
+msgid "2"
+msgstr ""
+
+#: index.php:106
+msgid "3"
+msgstr ""
+
+#: index.php:107
+msgid "4"
+msgstr ""
+
+#: index.php:108
+msgid "5"
+msgstr ""
+
+#: index.php:114
+msgid "Number rooms"
+msgstr ""
+
+#: index.php:128
+msgid "Search"
+msgstr ""
+
+#: paypal_false.php:4
+#: paypal_success.php:4
+msgid "Payment Result"
+msgstr ""
+
+#: paypal_false.php:10
+msgid "Payment False"
+msgstr ""
+
+#: paypal_false.php:11
+msgid "Your transaction has been false, please try again"
+msgstr ""
+
+#: paypal_success.php:53
+#: paypal_success.php:163
+msgid "Booking process was false, please contact with hotel and try again"
+msgstr ""
+
+#: paypal_success.php:180
+msgid "Booking Successful"
+msgstr ""
+
+#: paypal_success.php:181
+msgid "Your booking has been successfully !"
+msgstr ""
+
+#: paypal_success.php:183
+#: paypal_success.php:250
+msgid "Transaction No!"
+msgstr ""
+
+#: paypal_success.php:238
+msgid "Customer booking successfully"
+msgstr ""
+
+#: paypal_success.php:240
+msgid "There was a customer booking success!"
+msgstr ""
+
+#: paypal_success.php:240
+msgid "Details"
+msgstr ""
+
+#: paypal_success.php:241
+msgid "Edit information"
+msgstr ""
+
+#: paypal_success.php:247
+#: paypal_success.php:259
+msgid "Booking Error"
+msgstr ""
+
+#: paypal_success.php:248
+msgid "Error"
+msgstr ""
+
+#: paypal_success.php:260
+msgid "There is an error occurred"
+msgstr ""
+
+#: paypal_success.php:262
+msgid "Transaction No"
+msgstr ""
+
+#: paypal_success.php:265
+msgid "Something went wrong, please try again"
+msgstr ""
+
+#: paypal_success.php:273
+msgid "Home"
+msgstr ""
+
+#: roomtypes.php:58
+msgid "No Rooms Available!"
+msgstr ""
+
+#: roomtypes.php:65
+msgid "Sorry, but this section has no rooms!"
+msgstr ""
+
+#: search.php:25
+msgid "Check rooms avalible"
+msgstr ""
+
+#: search.php:40
+#: search.php:45
+msgid "Empty"
+msgstr ""
+
+#: search.php:55
+msgid " Adult(s)"
+msgstr ""
+
+#: search.php:55
+msgid " and  "
+msgstr ""
+
+#: search.php:55
+msgid " Kid(s)"
+msgstr ""
+
+#: search.php:62
+msgid "Guests per Room"
+msgstr ""
+
+#: search.php:79
+msgid "Sorry, Not rooms available with your conditions. Please change date! "
+msgstr ""
+
+#: search.php:85
+msgid "Book Now"
+msgstr ""
+
+#: search.php:88
+#: search.php:92
+msgid "Contact Us"
+msgstr ""
+
+#: search.php:161
+msgid "Detail"
+msgstr ""
+
+#: searchform.php:7
+msgid "From:"
+msgstr ""
+
+#: searchform.php:11
+msgid "To:"
+msgstr ""
+
+#: searchform.php:15
+msgid "Adults:"
+msgstr ""
+
+#: searchform.php:28
+msgid "Rooms:"
+msgstr ""
+
+#: searchform.php:86
+msgid "Select"
+msgstr ""
+
+#: searchform.php:113
+msgid "Check Availability"
+msgstr ""
+
+#: single-roomtype.php:39
+msgid "Capability"
+msgstr ""
+
+#: single-roomtype.php:44
+msgid "Price"
+msgstr ""
+
+#: single-roomtype.php:58
+msgid "Allow"
+msgstr ""
+
+#: single-roomtype.php:61
+msgid "Not allow"
+msgstr ""
+
+#: admin/add_booking.php:21
+msgid "First name field is not blank !"
+msgstr ""
+
+#: admin/add_booking.php:23
+msgid "Last name field is not blank !"
+msgstr ""
+
+#: admin/add_booking.php:25
+msgid "Email field is not blank !"
+msgstr ""
+
+#: admin/add_booking.php:27
+msgid "Phone field is not blank !"
+msgstr ""
+
+#: admin/add_booking.php:29
+msgid "Country field is not blank !"
+msgstr ""
+
+#: admin/add_booking.php:31
+msgid "State field is not blank !"
+msgstr ""
+
+#: admin/add_booking.php:33
+msgid "Street field is not blank !"
+msgstr ""
+
+#: admin/add_booking.php:38
+#: admin/add_booking.php:65
+msgid "Please choose check in date !"
+msgstr ""
+
+#: admin/add_booking.php:40
+#: admin/add_booking.php:61
+msgid "Please choose check out date !"
+msgstr ""
+
+#: admin/add_booking.php:42
+#: admin/add_booking.php:52
+msgid "Check out date should be greater than check in date !"
+msgstr ""
+
+#: admin/add_booking.php:44
+msgid "Please choose room !"
+msgstr ""
+
+#: admin/add_booking.php:148
+msgid "Congratulation, reservation success !"
+msgstr ""
+
+#: admin/add_booking.php:187
+msgid "Your room(s) had been reservation by the other customer"
+msgstr ""
+
+#: admin/add_booking.php:188
+#: admin/add_booking.php:212
+msgid "from"
+msgstr ""
+
+#: admin/add_booking.php:188
+#: admin/add_booking.php:212
+msgid "to"
+msgstr ""
+
+#: admin/add_booking.php:211
+msgid "Your room(s) had been booking by the other customer"
+msgstr ""
+
+#: admin/add_booking.php:277
+msgid "Congratulation, modified reservation success !"
+msgstr ""
+
+#: admin/add_booking.php:310
+#: admin/add_roomtype.php:205
+#: admin/admin_list_pricing.php:6
+#: admin/admin_list_promotion.php:9
+msgid "Problems? Questions?"
+msgstr ""
+
+#: admin/add_booking.php:310
+#: admin/add_custom_field_roomtype.php:63
+#: admin/add_room.php:70
+#: admin/add_roomtype.php:205
+msgid " Contact us at "
+msgstr ""
+
+#: admin/add_booking.php:319
+msgid "Reservation "
+msgstr ""
+
+#: admin/add_booking.php:326
+msgid "Customer Informations :"
+msgstr ""
+
+#: admin/add_booking.php:433
+msgid "Please choose check in date and check out date first !"
+msgstr ""
+
+#: admin/add_booking.php:456
+msgid "Empty Room !"
+msgstr ""
+
+#: admin/add_booking.php:473
+msgid "Reservation Informations: "
+msgstr ""
+
+#: admin/add_booking.php:496
+msgid "Room(s)"
+msgstr ""
+
+#: admin/add_booking.php:500
+msgid "Service(s)"
+msgstr ""
+
+#: admin/add_booking.php:504
+#: admin/admin_list_pricing.php:55
+#: admin/admin_list_pricing.php:102
+msgid "Room Type"
+msgstr ""
+
+#: admin/add_booking.php:507
+msgid "Check In"
+msgstr ""
+
+#: admin/add_booking.php:510
+msgid "Check Out"
+msgstr ""
+
+#: admin/add_booking.php:513
+msgid "Book Date"
+msgstr ""
+
+#: admin/add_booking.php:560
+msgid "Paid Total"
+msgstr ""
+
+#: admin/add_booking.php:579
+msgid "Change reservation"
+msgstr ""
+
+#: admin/add_booking.php:591
+msgid "Check In :"
+msgstr ""
+
+#: admin/add_booking.php:602
+msgid "Check Out :"
+msgstr ""
+
+#: admin/add_booking.php:623
+#: admin/add_room.php:93
+msgid "Room Type :"
+msgstr ""
+
+#: admin/add_booking.php:628
+#: admin/add_room.php:96
+msgid "Select ..."
+msgstr ""
+
+#: admin/add_booking.php:659
+msgid "Total Price"
+msgstr ""
+
+#: admin/add_booking.php:677
+#: admin/admin_pricing_edit.php:251
+msgid "Update"
+msgstr ""
+
+#: admin/add_booking.php:677
+#: admin/add_custom_field_roomtype.php:149
+#: admin/add_room.php:133
+#: admin/add_roomtype.php:369
+msgid "Save"
+msgstr ""
+
+#: admin/add_custom_field_roomtype.php:26
+msgid "Enter field name, please!"
+msgstr ""
+
+#: admin/add_custom_field_roomtype.php:77
+msgid "Add Custom Field Roomtype"
+msgstr ""
+
+#: admin/add_custom_field_roomtype.php:86
+msgid "Field Name"
+msgstr ""
+
+#: admin/add_custom_field_roomtype.php:93
+msgid "Field Type"
+msgstr ""
+
+#: admin/add_custom_field_roomtype.php:96
+msgid "Short Text"
+msgstr ""
+
+#: admin/add_custom_field_roomtype.php:97
+msgid "Long Text"
+msgstr ""
+
+#: admin/add_custom_field_roomtype.php:98
+msgid "Drop Box"
+msgstr ""
+
+#: admin/add_custom_field_roomtype.php:99
+msgid "Check Box"
+msgstr ""
+
+#: admin/add_custom_field_roomtype.php:115
+msgid "Field Options"
+msgstr ""
+
+#: admin/add_custom_field_roomtype.php:122
+msgid "Can Search"
+msgstr ""
+
+#: admin/add_custom_field_roomtype.php:132
+msgid "Actived"
+msgstr ""
+
+#: admin/add_room.php:84
+msgid "Add Room"
+msgstr ""
+
+#: admin/add_room.php:112
+msgid "Room name - Sort by anphabet. The head <br/>of list room's name will be given priority when booking online payment"
+msgstr ""
+
+#: admin/add_room.php:121
+msgid "Publish :"
+msgstr ""
+
+#: admin/add_roomtype.php:39
+#: admin/add_roomtype.php:107
+msgid "Enter room type name, please!"
+msgstr ""
+
+#: admin/add_roomtype.php:40
+#: admin/add_roomtype.php:108
+msgid "Enter description, please!"
+msgstr ""
+
+#: admin/add_roomtype.php:41
+#: admin/add_roomtype.php:109
+msgid "Enter person in rooms, please!"
+msgstr ""
+
+#: admin/add_roomtype.php:42
+#: admin/add_roomtype.php:110
+msgid "Enter kids in rooms, please!"
+msgstr ""
+
+#: admin/add_roomtype.php:220
+msgid "Add Room Type:"
+msgstr ""
+
+#: admin/add_roomtype.php:237
+msgid "Image "
+msgstr ""
+
+#: admin/add_roomtype.php:243
+msgid "Room Type Name "
+msgstr ""
+
+#: admin/add_roomtype.php:249
+msgid "Bed Type:"
+msgstr ""
+
+#: admin/add_roomtype.php:255
+msgid "Description "
+msgstr ""
+
+#: admin/add_roomtype.php:283
+msgid "Allow Pet:"
+msgstr ""
+
+#: admin/add_roomtype.php:301
+msgid "Allow Smoking:"
+msgstr ""
+
+#: admin/add_roomtype.php:321
+msgid "Person/Room "
+msgstr ""
+
+#: admin/add_roomtype.php:326
+msgid "Kids/Room "
+msgstr ""
+
+#: admin/add_roomtype.php:331
+msgid "Price per night:"
+msgstr ""
+
+#: admin/add_roomtype.php:337
+msgid "Discount:"
+msgstr ""
+
+#: admin/add_roomtype.php:345
+msgid "More images:"
+msgstr ""
+
+#: admin/admin_list_pricing.php:6
+#: admin/admin_list_promotion.php:9
+msgid " Contact us at"
+msgstr ""
+
+#: admin/admin_list_pricing.php:13
+msgid "Your settings have been saved !"
+msgstr ""
+
+#: admin/admin_list_pricing.php:21
+msgid "List Pricings:"
+msgstr ""
+
+#: admin/admin_list_pricing.php:29
+msgid "Active"
+msgstr ""
+
+#: admin/admin_list_pricing.php:30
+msgid "Deactive"
+msgstr ""
+
+#: admin/admin_list_pricing.php:31
+msgid "Delete"
+msgstr ""
+
+#: admin/admin_list_pricing.php:33
+msgid "Apply"
+msgstr ""
+
+#: admin/admin_list_pricing.php:35
+msgid "View"
+msgstr ""
+
+#: admin/admin_list_pricing.php:52
+#: admin/admin_list_pricing.php:99
+#: admin/admin_list_promotion.php:29
+#: admin/admin_list_promotion.php:81
+msgid "ID"
+msgstr ""
+
+#: admin/admin_list_pricing.php:53
+#: admin/admin_list_pricing.php:100
+msgid "Time Type"
+msgstr ""
+
+#: admin/admin_list_pricing.php:54
+#: admin/admin_list_pricing.php:101
+#: admin/admin_pricing_edit.php:91
+msgid "Time"
+msgstr ""
+
+#: admin/admin_list_pricing.php:56
+#: admin/admin_list_pricing.php:103
+msgid "New Price"
+msgstr ""
+
+#: admin/admin_list_pricing.php:57
+#: admin/admin_list_pricing.php:104
+#: admin/admin_pricing_edit.php:208
+msgid "Priority"
+msgstr ""
+
+#: admin/admin_list_pricing.php:58
+#: admin/admin_list_pricing.php:105
+#: admin/admin_list_promotion.php:36
+#: admin/admin_list_promotion.php:88
+msgid "Start Date"
+msgstr ""
+
+#: admin/admin_list_pricing.php:59
+#: admin/admin_list_pricing.php:106
+#: admin/admin_list_promotion.php:38
+#: admin/admin_list_promotion.php:90
+#: admin/admin_pricing_edit.php:236
+msgid "Activated"
+msgstr ""
+
+#: admin/admin_list_pricing.php:93
+msgid "No price has been found yet"
+msgstr ""
+
+#: admin/admin_list_pricing.php:122
+#: admin/admin_pricing_edit.php:212
+msgid "Very high"
+msgstr ""
+
+#: admin/admin_list_pricing.php:125
+#: admin/admin_pricing_edit.php:213
+msgid "High"
+msgstr ""
+
+#: admin/admin_list_pricing.php:128
+#: admin/admin_pricing_edit.php:214
+msgid "Normal"
+msgstr ""
+
+#: admin/admin_list_pricing.php:131
+#: admin/admin_pricing_edit.php:215
+msgid "Low"
+msgstr ""
+
+#: admin/admin_list_pricing.php:134
+#: admin/admin_pricing_edit.php:216
+msgid "Very low"
+msgstr ""
+
+#: admin/admin_list_pricing.php:174
+msgid "From "
+msgstr ""
+
+#: admin/admin_list_pricing.php:177
+msgid " to "
+msgstr ""
+
+#: admin/admin_list_promotion.php:18
+msgid "List Promotions:"
+msgstr ""
+
+#: admin/admin_list_promotion.php:30
+#: admin/admin_list_promotion.php:82
+msgid "Code"
+msgstr ""
+
+#: admin/admin_list_promotion.php:31
+#: admin/admin_list_promotion.php:83
+msgid "Title"
+msgstr ""
+
+#: admin/admin_list_promotion.php:32
+#: admin/admin_list_promotion.php:84
+msgid "Promotion Name"
+msgstr ""
+
+#: admin/admin_list_promotion.php:33
+#: admin/admin_list_promotion.php:85
+msgid "Promotion Type"
+msgstr ""
+
+#: admin/admin_list_promotion.php:34
+#: admin/admin_list_promotion.php:86
+msgid "Amount"
+msgstr ""
+
+#: admin/admin_list_promotion.php:35
+#: admin/admin_list_promotion.php:87
+msgid "Usage"
+msgstr ""
+
+#: admin/admin_list_promotion.php:37
+#: admin/admin_list_promotion.php:89
+msgid "End Date"
+msgstr ""
+
+#: admin/admin_list_promotion.php:61
+msgid "Coupon"
+msgstr ""
+
+#: admin/admin_list_promotion.php:61
+msgid "Sale off"
+msgstr ""
+
+#: admin/admin_list_promotion.php:62
+msgid "Percent"
+msgstr ""
+
+#: admin/admin_list_promotion.php:62
+msgid "Exact amount"
+msgstr ""
+
+#: admin/admin_list_promotion.php:75
+msgid "No promotion has been found yet"
+msgstr ""
+
+#: admin/admin_pricing_edit.php:81
+msgid "Edit Pricing"
+msgstr ""
+
+#: admin/admin_pricing_edit.php:92
+msgid "Weekly"
+msgstr ""
+
+#: admin/admin_pricing_edit.php:93
+msgid "Monthly"
+msgstr ""
+
+#: admin/admin_pricing_edit.php:94
+msgid "Yearly"
+msgstr ""
+
+#: admin/admin_pricing_edit.php:118
+msgid "FROM"
+msgstr ""
+
+#: admin/admin_pricing_edit.php:119
+msgid "January"
+msgstr ""
+
+#: admin/admin_pricing_edit.php:119
+msgid "February"
+msgstr ""
+
+#: admin/admin_pricing_edit.php:119
+msgid "March"
+msgstr ""
+
+#: admin/admin_pricing_edit.php:119
+msgid "April"
+msgstr ""
+
+#: admin/admin_pricing_edit.php:119
+msgid "May"
+msgstr ""
+
+#: admin/admin_pricing_edit.php:119
+msgid "June"
+msgstr ""
+
+#: admin/admin_pricing_edit.php:119
+msgid "July"
+msgstr ""
+
+#: admin/admin_pricing_edit.php:119
+msgid "August"
+msgstr ""
+
+#: admin/admin_pricing_edit.php:119
+msgid "September"
+msgstr ""
+
+#: admin/admin_pricing_edit.php:119
+msgid "October"
+msgstr ""
+
+#: admin/admin_pricing_edit.php:119
+msgid "November"
+msgstr ""
+
+#: admin/admin_pricing_edit.php:119
+msgid "December"
+msgstr ""
+
+#: admin/admin_pricing_edit.php:121
+#: admin/admin_pricing_edit.php:146
+msgid "Month"
+msgstr ""
+
+#: admin/admin_pricing_edit.php:132
+#: admin/admin_pricing_edit.php:157
+msgid "Day"
+msgstr ""
+
+#: admin/admin_pricing_edit.php:143
+msgid "TO"
+msgstr ""
+
+#: admin/admin_pricing_edit.php:171
+msgid "Select Room Type"
+msgstr ""
+
+#: admin/admin_pricing_edit.php:206
+msgid "Change type"
+msgstr ""
+
+#: admin/admin_pricing_edit.php:211
+msgid "Select a priority... "
+msgstr ""
+
+#: admin/admin_pricing_edit.php:225
+msgid "Date start"
+msgstr ""
+
+#: admin/admin_promotion.php:53
+#: admin/admin_promotion.php:93
+#: admin/admin_promotion_edit.php:87
+msgid "Promotion type"
+msgstr ""
+
+#: admin/admin_promotion.php:56
+#: admin/admin_promotion.php:96
+#: admin/admin_promotion_edit.php:90
+msgid "Select a promotion type... "
+msgstr ""
+
+#: admin/admin_promotion.php:66
+#: admin/admin_promotion_edit.php:60
+msgid "Coupon code"
+msgstr ""
+
+#: admin/admin_promotion.php:84
+#: admin/admin_promotion_edit.php:78
+msgid "Description"
+msgstr ""
+
+#: admin/admin_promotion.php:97
+#: admin/admin_promotion_edit.php:91
+msgid "Percent "
+msgstr ""
+
+#: admin/admin_promotion.php:106
+#: admin/admin_promotion_edit.php:100
+msgid "Promotion amount"
+msgstr ""
+
+#: admin/admin_promotion.php:124
+#: admin/admin_promotion_edit.php:118
+msgid "Start date"
+msgstr ""
+
+#: admin/admin_promotion.php:134
+#: admin/admin_promotion_edit.php:128
+msgid "End date"
+msgstr ""
+
+#: admin/admin_promotion_edit.php:44
+msgid "Edit "
+msgstr ""
+
+#: admin/dashboard.php:28
+msgid "Hotel Dashboard"
+msgstr ""
+
+#: admin/dashboard.php:33
+msgid "Hotel Info"
+msgstr ""
+
+#: admin/dashboard.php:46
+msgid "Please update now"
+msgstr ""
+
+#: admin/dashboard.php:52
+msgid "Total Room Types"
+msgstr ""
+
+#: admin/dashboard.php:55
+msgid "Total Rooms"
+msgstr ""
+
+#: admin/dashboard.php:58
+msgid "Total Bookings"
+msgstr ""
+
+#: admin/dashboard.php:61
+msgid "Product Support"
+msgstr ""
+
+#: admin/dashboard.php:61
+msgid "Technical"
+msgstr ""
+
+#: admin/dashboard.php:69
+msgid "Latest News"
+msgstr ""
+
+#: admin/functions-sub.php:21
+msgid "Dashboard"
+msgstr ""
+
+#: admin/functions-sub.php:22
+msgid "Layout Settings"
+msgstr ""
+
+#: admin/functions-sub.php:23
+#: admin/location_settings.php:33
+msgid "Location Settings"
+msgstr ""
+
+#: admin/functions-sub.php:24
+#: admin/settings.php:151
+msgid "Global Settings"
+msgstr ""
+
+#: admin/functions-sub.php:27
+msgid "New Room"
+msgstr ""
+
+#: admin/functions-sub.php:28
+msgid "Rooms List"
+msgstr ""
+
+#: admin/functions-sub.php:29
+msgid "New Reservation"
+msgstr ""
+
+#: admin/functions-sub.php:30
+msgid "Reservations List"
+msgstr ""
+
+#: admin/functions-sub.php:31
+msgid "Reservation Calendar"
+msgstr ""
+
+#: admin/functions-sub.php:31
+#: admin/reservations.php:97
+msgid "Reservations Calendar"
+msgstr ""
+
+#: admin/functions-sub.php:32
+msgid "Testimonials"
+msgstr ""
+
+#: admin/functions-sub.php:36
+msgid "Additional Fields"
+msgstr ""
+
+#: admin/functions-sub.php:37
+#: admin/list_custom_field_roomtype.php:72
+msgid "Add Field"
+msgstr ""
+
+#: admin/functions-sub.php:40
+msgid "New Pricing"
+msgstr ""
+
+#: admin/functions-sub.php:40
+#: admin/pricing.php:64
+msgid "Pricing"
+msgstr ""
+
+#: admin/functions-sub.php:41
+msgid "Pricings List"
+msgstr ""
+
+#: admin/functions-sub.php:41
+msgid "List Pricings"
+msgstr ""
+
+#: admin/functions-sub.php:42
+msgid "Transactions Log"
+msgstr ""
+
+#: admin/functions-sub.php:44
+msgid "List Promotions"
+msgstr ""
+
+#: admin/layout_settings.php:29
+#: admin/location_settings.php:20
+msgid "Your settings have been saved"
+msgstr ""
+
+#: admin/layout_settings.php:41
+msgid "Sory, We can't upload your favicon."
+msgstr ""
+
+#: admin/layout_settings.php:44
+msgid "Your favicon should rename is the 'favicon.ico'."
+msgstr ""
+
+#: admin/layout_settings.php:74
+#: admin/layout_settings.php:113
+#: admin/layout_settings.php:142
+#: admin/layout_settings.php:208
+msgid "Sory, We can't upload your picture."
+msgstr ""
+
+#: admin/layout_settings.php:252
+msgid "Favicon Setting"
+msgstr ""
+
+#: admin/layout_settings.php:257
+msgid "Current Favicon :"
+msgstr ""
+
+#: admin/layout_settings.php:258
+msgid "Display your current favicon on theme."
+msgstr ""
+
+#: admin/layout_settings.php:262
+msgid "Current Favicon"
+msgstr ""
+
+#: admin/layout_settings.php:268
+msgid "Upload Favicon :"
+msgstr ""
+
+#: admin/layout_settings.php:269
+msgid "Upload your favicon you want to set on theme."
+msgstr ""
+
+#: admin/layout_settings.php:274
+msgid "Your favicon file should rename as favicon.ico and the size should be 32x32 pixel"
+msgstr ""
+
+#: admin/layout_settings.php:276
+msgid "Upload Favicon"
+msgstr ""
+
+#: admin/layout_settings.php:285
+msgid "Logo Setting"
+msgstr ""
+
+#: admin/layout_settings.php:290
+msgid "Current Logo :"
+msgstr ""
+
+#: admin/layout_settings.php:291
+msgid "Display your current logo in header website."
+msgstr ""
+
+#: admin/layout_settings.php:296
+msgid "Current Logo"
+msgstr ""
+
+#: admin/layout_settings.php:297
+msgid "Set Classic Logo"
+msgstr ""
+
+#: admin/layout_settings.php:304
+msgid "Upload Logo :"
+msgstr ""
+
+#: admin/layout_settings.php:305
+msgid "Upload your Logo you want to set in header website."
+msgstr ""
+
+#: admin/layout_settings.php:310
+msgid "Your Logo size should be 277x64 pixel"
+msgstr ""
+
+#: admin/layout_settings.php:312
+msgid "Upload Logo"
+msgstr ""
+
+#: admin/layout_settings.php:322
+msgid "Page Setting"
+msgstr ""
+
+#: admin/layout_settings.php:327
+msgid "Contact page :"
+msgstr ""
+
+#: admin/layout_settings.php:328
+msgid "Choose a page to display as an Contact page. There is a contact from in Contact Us page for user to send email directly to website administrator."
+msgstr ""
+
+#: admin/layout_settings.php:337
+#: admin/layout_settings.php:366
+msgid "Please choose"
+msgstr ""
+
+#: admin/layout_settings.php:356
+msgid "Location page :"
+msgstr ""
+
+#: admin/layout_settings.php:357
+msgid "Choose a page to display as an Location page. There is a place to show your hotel's location with visual way."
+msgstr ""
+
+#: admin/layout_settings.php:388
+msgid "Background Setting"
+msgstr ""
+
+#: admin/layout_settings.php:393
+msgid "Current Background :"
+msgstr ""
+
+#: admin/layout_settings.php:394
+msgid "Display your current background of website."
+msgstr ""
+
+#: admin/layout_settings.php:399
+msgid "Current Background"
+msgstr ""
+
+#: admin/layout_settings.php:400
+msgid "Set Classic Background"
+msgstr ""
+
+#: admin/layout_settings.php:407
+msgid "Upload Background :"
+msgstr ""
+
+#: admin/layout_settings.php:408
+msgid "Upload your background you want to set for website."
+msgstr ""
+
+#: admin/layout_settings.php:413
+msgid "Your main background size should be 1500x1000 pixel"
+msgstr ""
+
+#: admin/layout_settings.php:415
+msgid "Upload Main Background"
+msgstr ""
+
+#: admin/layout_settings.php:424
+msgid "Inner Background Setting"
+msgstr ""
+
+#: admin/layout_settings.php:429
+msgid "Current Inner Background :"
+msgstr ""
+
+#: admin/layout_settings.php:430
+msgid "Display your current inner background of website."
+msgstr ""
+
+#: admin/layout_settings.php:435
+msgid "Current Inner Background"
+msgstr ""
+
+#: admin/layout_settings.php:436
+msgid "Set Classic Inner Background"
+msgstr ""
+
+#: admin/layout_settings.php:443
+msgid "Upload Inner Background :"
+msgstr ""
+
+#: admin/layout_settings.php:444
+msgid "Upload your innner background you want to set for website."
+msgstr ""
+
+#: admin/layout_settings.php:449
+msgid "Your inner background size should be 960x160 pixel"
+msgstr ""
+
+#: admin/layout_settings.php:451
+msgid "Upload Inner Background"
+msgstr ""
+
+#: admin/layout_settings.php:460
+msgid "Images Slider Setting"
+msgstr ""
+
+#: admin/layout_settings.php:465
+msgid "Upload Image Slider :"
+msgstr ""
+
+#: admin/layout_settings.php:466
+msgid "Upload your image slider you want to set for website."
+msgstr ""
+
+#: admin/layout_settings.php:467
+msgid "Your each image slider size should be 960x320 pixel"
+msgstr ""
+
+#: admin/layout_settings.php:469
+msgid "Upload Image Slider"
+msgstr ""
+
+#: admin/layout_settings.php:471
+msgid "Set Classic Image Slider"
+msgstr ""
+
+#: admin/layout_settings.php:476
+msgid "Current Image First"
+msgstr ""
+
+#: admin/layout_settings.php:483
+msgid "Current Image Second"
+msgstr ""
+
+#: admin/layout_settings.php:490
+msgid "Current Image Third"
+msgstr ""
+
+#: admin/layout_settings.php:497
+msgid "Current Image Four"
+msgstr ""
+
+#: admin/layout_settings.php:504
+msgid "Current Image Five"
+msgstr ""
+
+#: admin/layout_settings.php:519
+msgid "Active Default Menu"
+msgstr ""
+
+#: admin/layout_settings.php:524
+msgid "Set default items on menu bars in your theme (header_menu & footer_menu)"
+msgstr ""
+
+#: admin/list_bookings.php:93
+msgid "Action apply successful !"
+msgstr ""
+
+#: admin/list_bookings.php:218
+#: admin/manager_services.php:88
+msgid "Bulk Actions"
+msgstr ""
+
+#: admin/list_bookings.php:219
+#: admin/list_bookings.php:228
+#: admin/list_rooms.php:79
+#: admin/list_rooms.php:100
+#: admin/list_roomtypes.php:83
+#: admin/list_roomtypes.php:93
+#: admin/manager_testimonial.php:87
+#: admin/manager_testimonial.php:98
+msgid "Publish"
+msgstr ""
+
+#: admin/list_bookings.php:220
+#: admin/list_bookings.php:229
+#: admin/list_rooms.php:80
+#: admin/list_rooms.php:101
+#: admin/list_roomtypes.php:84
+#: admin/list_roomtypes.php:94
+#: admin/manager_testimonial.php:88
+#: admin/manager_testimonial.php:99
+msgid "Pending"
+msgstr ""
+
+#: admin/list_bookings.php:221
+msgid "Move to trash"
+msgstr ""
+
+#: admin/list_bookings.php:227
+msgid "All"
+msgstr ""
+
+#: admin/list_bookings.php:230
+#: admin/list_rooms.php:102
+#: admin/list_roomtypes.php:95
+#: admin/manager_testimonial.php:100
+msgid "Trash"
+msgstr ""
+
+#: admin/list_bookings.php:232
+msgid "Sort by"
+msgstr ""
+
+#: admin/list_bookings.php:249
+msgid "Search customer name ..."
+msgstr ""
+
+#: admin/list_bookings.php:264
+#: admin/list_bookings.php:351
+#: admin/list_custom_field_roomtype.php:96
+#: admin/list_custom_field_roomtype.php:147
+#: admin/settings.php:742
+msgid "Type"
+msgstr ""
+
+#: admin/list_bookings.php:268
+#: admin/list_bookings.php:355
+msgid "Total"
+msgstr ""
+
+#: admin/list_bookings.php:269
+#: admin/list_bookings.php:356
+#: admin/list_rooms.php:115
+#: admin/list_rooms.php:159
+#: admin/list_roomtypes.php:123
+#: admin/list_roomtypes.php:221
+#: admin/manager_testimonial.php:122
+#: admin/manager_testimonial.php:162
+msgid "Status"
+msgstr ""
+
+#: admin/list_bookings.php:334
+msgid "No reservation has been found"
+msgstr ""
+
+#: admin/list_custom_field_roomtype.php:19
+#: admin/list_custom_field_roomtype.php:27
+msgid "Update activated successful!"
+msgstr ""
+
+#: admin/list_custom_field_roomtype.php:35
+#: admin/list_custom_field_roomtype.php:43
+msgid "Update can search successful!"
+msgstr ""
+
+#: admin/list_custom_field_roomtype.php:51
+#: admin/list_custom_field_roomtype.php:57
+#: admin/manager_services.php:16
+#: admin/manager_services.php:25
+#: admin/manager_testimonial.php:44
+msgid "Delete successful!"
+msgstr ""
+
+#: admin/list_custom_field_roomtype.php:72
+msgid "Manager Fields:"
+msgstr ""
+
+#: admin/list_custom_field_roomtype.php:81
+msgid "Activate"
+msgstr ""
+
+#: admin/list_custom_field_roomtype.php:82
+msgid "Deactivate"
+msgstr ""
+
+#: admin/list_custom_field_roomtype.php:84
+msgid "Cannot Search"
+msgstr ""
+
+#: admin/list_custom_field_roomtype.php:95
+#: admin/list_custom_field_roomtype.php:146
+#: admin/manager_testimonial.php:119
+#: admin/manager_testimonial.php:159
+msgid "Name"
+msgstr ""
+
+#: admin/list_custom_field_roomtype.php:107
+#: admin/list_custom_field_roomtype.php:108
+#: admin/location_settings.php:30
+#: admin/settings.php:148
+msgid "yes"
+msgstr ""
+
+#: admin/list_custom_field_roomtype.php:107
+#: admin/list_custom_field_roomtype.php:108
+msgid "no"
+msgstr ""
+
+#: admin/list_custom_field_roomtype.php:119
+#: admin/manager_services.php:117
+msgid "Edit"
+msgstr ""
+
+#: admin/list_custom_field_roomtype.php:165
+msgid "You are about to permanently delete the selected items. 'Cancel' to stop, 'Ok' to delete."
+msgstr ""
+
+#: admin/list_rooms.php:71
+msgid "List Rooms"
+msgstr ""
+
+#: admin/list_rooms.php:81
+#: admin/list_roomtypes.php:85
+#: admin/manager_testimonial.php:89
+msgid "Move to Trash"
+msgstr ""
+
+#: admin/list_rooms.php:86
+msgid "All roomtype"
+msgstr ""
+
+#: admin/list_rooms.php:104
+#: admin/reservations.php:102
+msgid "Filter"
+msgstr ""
+
+#: admin/list_rooms.php:113
+#: admin/list_rooms.php:157
+msgid "Room Name"
+msgstr ""
+
+#: admin/list_rooms.php:141
+msgid "publish"
+msgstr ""
+
+#: admin/list_rooms.php:142
+msgid "pending"
+msgstr ""
+
+#: admin/list_rooms.php:143
+msgid "trash"
+msgstr ""
+
+#: admin/list_roomtypes.php:75
+msgid "List Room Type:"
+msgstr ""
+
+#: admin/list_roomtypes.php:115
+#: admin/list_roomtypes.php:213
+msgid "Bed Name"
+msgstr ""
+
+#: admin/list_roomtypes.php:116
+#: admin/list_roomtypes.php:214
+msgid "Person/ Room"
+msgstr ""
+
+#: admin/list_roomtypes.php:117
+#: admin/list_roomtypes.php:215
+msgid "Kids/ Room"
+msgstr ""
+
+#: admin/list_roomtypes.php:121
+#: admin/list_roomtypes.php:219
+msgid "Discount"
+msgstr ""
+
+#: admin/location_settings.php:40
+msgid "Google Map Code :"
+msgstr ""
+
+#: admin/location_settings.php:41
+msgid "Fill google map code when you sign up on google."
+msgstr ""
+
+#: admin/location_settings.php:50
+msgid "Hotel Address On Map :"
+msgstr ""
+
+#: admin/location_settings.php:51
+msgid "Fill hotel address to display on google map."
+msgstr ""
+
+#: admin/location_settings.php:64
+msgid "Latitude Of Hotel :"
+msgstr ""
+
+#: admin/location_settings.php:65
+msgid "Fill latitude of hotel to display hotel on google map."
+msgstr ""
+
+#: admin/location_settings.php:74
+msgid "Longitude Of Hotel :"
+msgstr ""
+
+#: admin/location_settings.php:75
+msgid "Fill longitude of hotel to display hotel on google map."
+msgstr ""
+
+#: admin/manager_services.php:35
+msgid "Update successful!"
+msgstr ""
+
+#: admin/manager_services.php:42
+msgid "Manager Services"
+msgstr ""
+
+#: admin/manager_services.php:44
+msgid "Support"
+msgstr ""
+
+#: admin/manager_services.php:57
+msgid "Edit Service"
+msgstr ""
+
+#: admin/manager_services.php:57
+msgid "Add New Service"
+msgstr ""
+
+#: admin/manager_services.php:61
+#: admin/manager_services.php:97
+#: admin/manager_services.php:132
+msgid "Service name"
+msgstr ""
+
+#: admin/manager_services.php:66
+msgid "Default price"
+msgstr ""
+
+#: admin/manager_services.php:72
+msgid "Update Service"
+msgstr ""
+
+#: admin/manager_services.php:75
+msgid "Add Service"
+msgstr ""
+
+#: admin/manager_services.php:150
+msgid "Enter name, please!"
+msgstr ""
+
+#: admin/manager_services.php:154
+msgid "Enter default, please!"
+msgstr ""
+
+#: admin/manager_services.php:189
+msgid "You are about to permanently delete the selected items. Cancel to stop, Ok to delete."
+msgstr ""
+
+#: admin/manager_testimonial.php:20
+#: admin/manager_testimonial.php:28
+#: admin/manager_testimonial.php:36
+msgid "Update status successful!"
+msgstr ""
+
+#: admin/manager_testimonial.php:78
+msgid "Manager Testimonial:"
+msgstr ""
+
+#: admin/manager_testimonial.php:120
+#: admin/manager_testimonial.php:160
+#: admin/settings.php:592
+msgid "Content"
+msgstr ""
+
+#: admin/pricing.php:178
+msgid "Check all"
+msgstr ""
+
+#: admin/pricing.php:179
+msgid "Uncheck all"
+msgstr ""
+
+#: admin/reservations.php:108
+#: admin/settings.php:596
+msgid "From"
+msgstr ""
+
+#: admin/reservations.php:114
+msgid "To"
+msgstr ""
+
+#: admin/reservations.php:144
+msgid "Calendar"
+msgstr ""
+
+#: admin/reservations.php:155
+msgid "Check in"
+msgstr ""
+
+#: admin/reservations.php:156
+msgid "Check out"
+msgstr ""
+
+#: admin/settings.php:157
+msgid "Allow Reservations?"
+msgstr ""
+
+#: admin/settings.php:158
+msgid " If you choose yes, the reservations button will be displayed. If you choose no, the reservations button will be disappeared and users cannot search available room for booking."
+msgstr ""
+
+#: admin/settings.php:171
+msgid "Maximum Adults"
+msgstr ""
+
+#: admin/settings.php:172
+msgid "The number of person will be displayed in reservation box. This is the maximum adults can book in once time( it should be a number)."
+msgstr ""
+
+#: admin/settings.php:182
+msgid "Maximum Rooms"
+msgstr ""
+
+#: admin/settings.php:183
+msgid "The number of rooms will be displayed in reservation box. This is the maximum rooms can book in once time ( it should be a number)."
+msgstr ""
+
+#: admin/settings.php:193
+msgid "Paid Submission?"
+msgstr ""
+
+#: admin/settings.php:194
+msgid "If you choose Enable, your users will need to pay if they want to book rooms online. If you choose Disable, the booking online will be closed."
+msgstr ""
+
+#: admin/settings.php:198
+#: admin/settings.php:576
+msgid "Enable"
+msgstr ""
+
+#: admin/settings.php:199
+#: admin/settings.php:577
+msgid "Disable"
+msgstr ""
+
+#: admin/settings.php:206
+msgid "Payment Methods :"
+msgstr ""
+
+#: admin/settings.php:207
+#: admin/settings.php:257
+msgid "Enter your Paypal mail address. You need to be registered at PayPal to ask for a Submission Price."
+msgstr ""
+
+#: admin/settings.php:214
+msgid "Direct payment"
+msgstr ""
+
+#: admin/settings.php:216
+msgid "2Checkout payment"
+msgstr ""
+
+#: admin/settings.php:222
+#: admin/settings.php:656
+msgid "Currency"
+msgstr ""
+
+#: admin/settings.php:223
+msgid "You are able to choose from 18 currencies."
+msgstr ""
+
+#: admin/settings.php:246
+msgid "Deposit Percent :"
+msgstr ""
+
+#: admin/settings.php:247
+msgid "The percent base on total price customer must pay when they book rooms online."
+msgstr ""
+
+#: admin/settings.php:256
+msgid "Paypal Email :"
+msgstr ""
+
+#: admin/settings.php:268
+msgid "The Seller ID :"
+msgstr ""
+
+#: admin/settings.php:269
+msgid "Enter your seller ID from the 2checkout site."
+msgstr ""
+
+#: admin/settings.php:278
+msgid "The 2Checkout secret key :"
+msgstr ""
+
+#: admin/settings.php:279
+msgid "Enter the secret key from the 2checkout site."
+msgstr ""
+
+#: admin/settings.php:288
+msgid "The 2Checkout Product ID :"
+msgstr ""
+
+#: admin/settings.php:289
+msgid "Enter the product ID from the 2checkout site."
+msgstr ""
+
+#: admin/settings.php:298
+msgid "The 2Checkout Product Price :"
+msgstr ""
+
+#: admin/settings.php:299
+msgid "Enter the product's price from the 2checkout site."
+msgstr ""
+
+#: admin/settings.php:308
+msgid "The 2Checkout Product Name :"
+msgstr ""
+
+#: admin/settings.php:309
+msgid "Enter the product's name from the 2checkout site."
+msgstr ""
+
+#: admin/settings.php:318
+msgid "The 2Checkout Product Description :"
+msgstr ""
+
+#: admin/settings.php:319
+msgid "Enter the product's description from the 2checkout site."
+msgstr ""
+
+#: admin/settings.php:330
+msgid "Booking Success Message :"
+msgstr ""
+
+#: admin/settings.php:331
+msgid "This message is displayed when customers booking room online successfully."
+msgstr ""
+
+#: admin/settings.php:341
+msgid "Cash Success Message :"
+msgstr ""
+
+#: admin/settings.php:342
+msgid "This message is displayed when customers booking room by cash payment successfully."
+msgstr ""
+
+#: admin/settings.php:352
+msgid "Languages"
+msgstr ""
+
+#: admin/settings.php:353
+msgid "Setting up your site's languages"
+msgstr ""
+
+#: admin/settings.php:364
+msgid "Visitor can switch language in the front-end"
+msgstr ""
+
+#: admin/settings.php:367
+msgid "Default Language:"
+msgstr ""
+
+#: admin/settings.php:391
+msgid "WPML plugin :"
+msgstr ""
+
+#: admin/settings.php:392
+#, php-format
+msgid "HotelPress recommend you using <b>WPML</b> plugin to display your website in multi-languages. <br />Once you install <b>WPML</b>, you can using WPML to display website in multi-lang with default languages feature of HotelPress. <br />Read more about WPML at %s "
+msgstr ""
+
+#: admin/settings.php:400
+msgid " using WPML (if you don't use WPML plugin, HotelPress will display default multilanguage by default) "
+msgstr ""
+
+#: admin/settings.php:407
+msgid "Link <b>WPML</b> languages to your languages files:"
+msgstr ""
+
+#: admin/settings.php:431
+msgid "Choose display name for your language file:"
+msgstr ""
+
+#: admin/settings.php:483
+msgid "Hotel Name :"
+msgstr ""
+
+#: admin/settings.php:492
+msgid "Contact Hotel Email :"
+msgstr ""
+
+#: admin/settings.php:501
+msgid "Hotel Country :"
+msgstr ""
+
+#: admin/settings.php:522
+msgid "Hotel State :"
+msgstr ""
+
+#: admin/settings.php:531
+msgid "Hotel Street :"
+msgstr ""
+
+#: admin/settings.php:543
+msgid "Contact Phone 1 :"
+msgstr ""
+
+#: admin/settings.php:552
+msgid "Contact Phone 2 :"
+msgstr ""
+
+#: admin/settings.php:561
+msgid "Contact Phone 3 :"
+msgstr ""
+
+#: admin/settings.php:570
+#: admin/settings.php:585
+msgid "Success Mail"
+msgstr ""
+
+#: admin/settings.php:571
+#: admin/settings.php:586
+msgid "This email is sent when a customer paid booking successful."
+msgstr ""
+
+#: admin/settings.php:574
+msgid "Enable / Disable it:"
+msgstr ""
+
+#: admin/settings.php:579
+msgid "mail() function need to be activated. Contact your host before activating this feature."
+msgstr ""
+
+#: admin/settings.php:589
+msgid "Subject"
+msgstr ""
+
+#: admin/settings.php:605
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/settings.php:606
+msgid "You can change display with your CSS, you can edit it at there. It will be effective your site without change our source code."
+msgstr ""
+
+#: admin/settings.php:609
+msgid "Your CSS"
+msgstr ""
+
+#: admin/settings.php:620
+msgid "Custom Script"
+msgstr ""
+
+#: admin/settings.php:621
+#, php-format
+msgid "The scripts you add here will be served after the HTML on every page of your site. You can insert into analytical tools for your website such as %s or %d , ...etc."
+msgstr ""
+
+#: admin/settings.php:624
+msgid "Scripts"
+msgstr ""
+
+#: admin/settings.php:638
+msgid "Diplay Currency"
+msgstr ""
+
+#: admin/settings.php:643
+msgid "Allow alternative currency"
+msgstr ""
+
+#: admin/settings.php:644
+msgid "Display alternative currency beside default payment currency"
+msgstr ""
+
+#: admin/settings.php:657
+msgid "Alternative currency"
+msgstr ""
+
+#: admin/settings.php:679
+msgid "Currency Rate"
+msgstr ""
+
+#: admin/settings.php:680
+msgid "Currency rate is exchange rate between your currency and default currency. It is the rate at which one default currency will be exchanged for your currency"
+msgstr ""
+
+#: admin/settings.php:690
+msgid "Symbol"
+msgstr ""
+
+#: admin/settings.php:691
+msgid "Symbol of alternative currency"
+msgstr ""
+
+#: admin/settings.php:701
+msgid "Symbol position"
+msgstr ""
+
+#: admin/settings.php:702
+msgid "Display position of currency"
+msgstr ""
+
+#: admin/settings.php:706
+msgid "Before amount"
+msgstr ""
+
+#: admin/settings.php:707
+msgid "Before amount and have a space"
+msgstr ""
+
+#: admin/settings.php:708
+msgid "After amount"
+msgstr ""
+
+#: admin/settings.php:709
+msgid "After amount and have a space"
+msgstr ""
+
+#: admin/settings.php:711
+msgid "Sample"
+msgstr ""
+
+#: admin/settings.php:724
+msgid "Tax/Services & Promotion"
+msgstr ""
+
+#: admin/settings.php:733
+msgid "This is surcharge beside default payment for reservation"
+msgstr ""
+
+#: admin/settings.php:743
+msgid "There are two types of surcharge: Exact Amount( directly surcharge ) or Percent( depend on the total payment ). If you choose 'Percent', please don't input 'Amount' over than 100"
+msgstr ""
+
+#: admin/settings.php:747
+msgid "Exact Amount"
+msgstr ""
+
+#: admin/settings.php:748
+msgid "Percent (%)"
+msgstr ""
+
+#: admin/settings.php:756
+msgid "Promotion date"
+msgstr ""
+
+#: admin/settings.php:757
+msgid " Promotion date is the date your hotel starts to be applied promotion. You can choose at booking or check in date "
+msgstr ""
+
+#: admin/settings.php:761
+msgid "At Booking Date"
+msgstr ""
+
+#: admin/settings.php:762
+msgid "At Checkin Date"
+msgstr ""
+
+#: admin/settings.php:769
+msgid "Save Change &raquo;"
+msgstr ""
+
+#: admin/transaction_log.php:29
+msgid "List Transactions "
+msgstr ""
+
+#: admin/transaction_log.php:52
+msgid "From Date:"
+msgstr ""
+
+#: admin/transaction_log.php:55
+msgid "To Date:"
+msgstr ""
+
+#: admin/transaction_log.php:67
+msgid "Booking Date"
+msgstr ""
+
+#: admin/transaction_log.php:129
+msgid "No transaction has been found yet"
+msgstr ""
+
+#: admin/transaction_log.php:137
+msgid "Total Amount"
+msgstr ""
+
+#: admin/transaction_log.php:168
+msgid "Are you sure want to delete the transaction(s) ?"
+msgstr ""
+
+#: admin_processing/admin_list_pricing_processing.php:18
+msgid "You have been successfully deleted."
+msgstr ""
+
+#: admin_processing/admin_list_pricing_processing.php:22
+#: admin_processing/admin_list_pricing_processing.php:26
+msgid "You have been successfully updated."
+msgstr ""
+
+#: admin_processing/admin_pricing_processing.php:58
+#: admin_processing/admin_pricing_processing.php:60
+msgid "ERROR: Please enter price for "
+msgstr ""
+
+#: admin_processing/admin_pricing_processing.php:58
+msgid " persons "
+msgstr ""
+
+#: admin_processing/admin_pricing_processing.php:60
+msgid " person "
+msgstr ""
+
+#: admin_processing/admin_pricing_processing.php:75
+msgid "ERROR: Please select a specific time."
+msgstr ""
+
+#: admin_processing/admin_pricing_processing.php:79
+msgid "ERROR: Please select at least one room type."
+msgstr ""
+
+#: admin_processing/admin_pricing_processing.php:81
+msgid "ERROR: Please select a priority."
+msgstr ""
+
+#: admin_processing/admin_pricing_processing.php:85
+msgid "ERROR: Please enter start date."
+msgstr ""
+
+#: admin_processing/admin_pricing_processing.php:124
+msgid "Sorry, can not save your settings!"
+msgstr ""
+
+#: admin_processing/admin_promotion_processing.php:36
+msgid "ERROR: Please enter coupon code."
+msgstr ""
+
+#: admin_processing/admin_promotion_processing.php:38
+msgid "ERROR: Please enter tilte."
+msgstr ""
+
+#: admin_processing/admin_promotion_processing.php:40
+msgid "ERROR: Please select promotion amount type."
+msgstr ""
+
+#: admin_processing/admin_promotion_processing.php:42
+msgid "ERROR: Please enter promotion amount."
+msgstr ""
+
+#: admin_processing/admin_promotion_processing.php:44
+msgid "ERROR: Promotion amount should be less than 100 and equal or more than 0."
+msgstr ""
+
+#: admin_processing/admin_promotion_processing.php:46
+msgid "ERROR: Please enter promotion usage."
+msgstr ""
+
+#: admin_processing/admin_promotion_processing.php:48
+msgid "ERROR: Promotion quanlity should be a number."
+msgstr ""
+
+#: admin_processing/admin_promotion_processing.php:50
+msgid "ERROR: Please select a start date."
+msgstr ""
+
+#: admin_processing/admin_promotion_processing.php:52
+msgid "ERROR: Please select a end date."
+msgstr ""
+
+#: admin_processing/admin_promotion_processing.php:54
+msgid "ERROR: Start date must less than end date."
+msgstr ""
+
+#: admin_processing/admin_transaction_process.php:52
+msgid "Transaction(s) has been deleted successfully!"
+msgstr ""
+
+#: admin_processing/admin_transaction_process.php:66
+msgid "Transaction has been deleted successfully!"
+msgstr ""
+
+#: ajax/ajax_capability_price.php:13
+msgid "Price for"
+msgstr ""
+
+#: ajax/ajax_capability_price.php:13
+msgid "person"
+msgstr ""
+
+#: ajax/ajax_get_room.php:101
+msgid "Choose Room :"
+msgstr ""
+
+#: ajax/ajax_get_room.php:169
+msgid "Not Services !"
+msgstr ""
+
+#: ajax/ajax_pricing_time.php:74
+msgid " persons :"
+msgstr ""
+
+#: ajax/ajax_pricing_time.php:76
+msgid " person :"
+msgstr ""
+
+#: ajax/ajax_pricing_time.php:77
+msgid "Original price"
+msgstr ""
+
+#: ajax/ajax_pricing_time.php:79
+msgid "New price"
+msgstr ""
+
+#: functions/form_process.php:9
+msgid "A message from customer"
+msgstr ""
+
+#: functions/function_register.php:160
+#: functions/function_register.php:223
+msgid "Pages: "
+msgstr ""
+
+#: functions/function_register.php:240
+msgid "says:"
+msgstr ""
+
+#: functions/function_register.php:999
+msgid "Check your reservation"
+msgstr ""
+
+#: functions/function_register.php:1002
+msgid "Room Types"
+msgstr ""
+
+#: functions/function_register.php:1005
+msgid "Payment"
+msgstr ""
+
+#: functions/function_register.php:1008
+msgid "Reservation Option"
+msgstr ""
+
+#: functions/function_register.php:1011
+msgid "Payment Success"
+msgstr ""
+
+#: functions/function_register.php:1014
+msgid "Payment Failed"
+msgstr ""
+
+#: functions/mywidget.php:17
+msgid "Header Navigation Menu"
+msgstr ""
+
+#: functions/mywidget.php:20
+msgid "Footer Navigation Menu"
+msgstr ""
+
+#: functions/mywidget.php:51
+#: functions/mywidget.php:52
+msgid "Widget Home"
+msgstr ""
+
+#: functions/mywidget.php:106
+msgid "Widget Testimonial put in widget home"
+msgstr ""
+
+#: functions/mywidget.php:107
+msgid "Widget Testimonial"
+msgstr ""
+
+#: functions/mywidget.php:186
+#: functions/mywidget.php:198
+msgid "Give Testimonial"
+msgstr ""
+
+#: functions/mywidget.php:205
+msgid "Message"
+msgstr ""
+
+#: functions/mywidget.php:208
+msgid "Send"
+msgstr ""
+
+#: functions/mywidget.php:209
+msgid "Cancel"
+msgstr ""
+
+#: functions/mywidget.php:227
+msgid "Error: Enter text Your Name, please!"
+msgstr ""
+
+#: functions/mywidget.php:232
+msgid "Error: Enter invalid email, please!"
+msgstr ""
+
+#: functions/mywidget.php:236
+msgid "Error: Enter text message, please!"
+msgstr ""
+
+#: functions/mywidget.php:259
+msgid "Send successful!"
+msgstr ""
+
+#: functions/mywidget.php:273
+msgid "Enter Link RSS put widget social "
+msgstr ""
+
+#: functions/mywidget.php:274
+#: functions/mywidget.php:302
+msgid "URL RSS"
+msgstr ""
+
+#: functions/mywidget.php:310
+msgid "Enter Link TWITTER put widget social"
+msgstr ""
+
+#: functions/mywidget.php:311
+#: functions/mywidget.php:339
+msgid "URL TWITTER"
+msgstr ""
+
+#: functions/mywidget.php:347
+msgid "Enter Link Facebook put widget social"
+msgstr ""
+
+#: functions/mywidget.php:348
+#: functions/mywidget.php:376
+msgid "URL Facebook"
+msgstr ""
+
+#: functions/mywidget.php:385
+msgid "Widget Home Area"
+msgstr ""
+
+#: functions/mywidget.php:387
+msgid "The widget home area"
+msgstr ""
+
+#: functions/mywidget.php:393
+msgid "Social Widget Area"
+msgstr ""
+
+#: functions/mywidget.php:395
+msgid "The widget social area"
+msgstr ""
+
+#: functions/mywidget.php:402
+msgid "Right Sidebar Widget Area"
+msgstr ""
+
+#: functions/mywidget.php:404
+msgid "The right sidebar widget area"
+msgstr ""
+
+#: functions/mywidget.php:428
+msgid "Add New Room Type"
+msgstr ""
+
+#: functions/mywidget.php:429
+msgid "Edit room type"
+msgstr ""
+
+#: functions/mywidget.php:430
+msgid "New room type"
+msgstr ""
+
+#: functions/mywidget.php:431
+msgid "View room type"
+msgstr ""
+
+#: functions/mywidget.php:432
+msgid "Search room type"
+msgstr ""
+
+#: functions/mywidget.php:433
+msgid "No room type found"
+msgstr ""
+
+#: functions/mywidget.php:434
+msgid "No room type found in Trash"
+msgstr ""
+
+#: functions/mywidget.php:457
+msgid "Add New testimonial"
+msgstr ""
+
+#: functions/mywidget.php:458
+msgid "Edit testimonial"
+msgstr ""
+
+#: functions/mywidget.php:459
+msgid "New testimonial"
+msgstr ""
+
+#: functions/mywidget.php:460
+msgid "View testimonial"
+msgstr ""
+
+#: functions/mywidget.php:461
+msgid "Search testimonial"
+msgstr ""
+
+#: functions/mywidget.php:462
+msgid "No testimonial found"
+msgstr ""
+
+#: functions/mywidget.php:463
+msgid "No testimonial found in Trash"
+msgstr ""
+
+#: functions/mywidget.php:559
+msgid "Roomtype Detail"
+msgstr ""
+
+#: functions/mywidget.php:560
+msgid "Roomtype information "
+msgstr ""
+
+#: functions/mywidget.php:561
+msgid "Services "
+msgstr ""
+
+#: functions/mywidget.php:577
+msgid "Has Tax"
+msgstr ""
+
+#: functions/mywidget.php:588
+msgid "6"
+msgstr ""
+
+#: functions/mywidget.php:589
+msgid "7"
+msgstr ""
+
+#: functions/mywidget.php:590
+msgid "8"
+msgstr ""
+
+#: functions/mywidget.php:591
+msgid "9"
+msgstr ""
+
+#: functions/mywidget.php:592
+msgid "10"
+msgstr ""
+
+#: functions/mywidget.php:612
+#: functions/mywidget.php:619
+msgid "Use as default price"
+msgstr ""
+
+#: functions/mywidget.php:669
+msgid "Use as default Price"
+msgstr ""
+
+#: functions/mywidget.php:768
+#: functions/mywidget.php:777
+msgid "At Time"
+msgstr ""
+
+#: functions/mywidget.php:783
+msgid "Location"
+msgstr ""
+
+#: pages/payment_submit.php:22
+msgid "The system is redirecting to Paypal automatically. Please waitting."
+msgstr ""
+
+#: pages/payment_submit.php:36
+msgid "Click here to confirm your transaction &rarr;"
+msgstr ""
+
+#: pages/payment_submit.php:42
+msgid "The system is redirecting to 2Checkout automatically. Please waitting."
+msgstr ""
+

@@ -1,0 +1,254 @@
+Theme Name: HotelPress
+
+Themes are available at URI : http://www.dailywp.com/category/themes/
+
+
+
+------------- Version: 1.0.4 { 19/Nov/2010 } -------------
+	
+* = Add: Displays the number of transactions in the hotel dashboad
+	
+* = Change width of the hotel dashboard
+	
+* = Change order in the bookings list
+	
+* : File was updated: /admin/list_bookings.php, /admin/dashboard.php, /style.css
+
+------------- Version: 1.0.5 { 22/Nov/2010 } -------------
+	
+* = More information for booking edit.
+	
+* = fix upload logo
+	
+* : File was updated: /booking_sub.php, /paypal_success.php, /add_booking.php, /layout_setting.php, /style.css
+
+------------- Version: 1.0.6 { 24/Nov/2010 } -------------
+	
+* = style of HotelPress, support ul, ol, table tags
+
+* = add some default classes support by wordpress 
+	
+* : File was updated: header.php, /css/master.css, /style.css
+
+------------- Version: 1.0.7 { 25/Nov/2010 } -------------
+	
+* =  Fix css version 1.0.6. 
+
+* = Fix currency online booking
+	
+* : File was updated: /header.php, /booking.php, /booking_sub.php, /style.css
+
+------------- Version: 1.0.7.1 { 26/Nov/2010 } -------------
+	
+* =  Support sub-menu for Hotelpress
+* =  Fix 1 error for HotelPress dashboard 
+* : File was updated: /css/master.css, /style.css, /admin/dashboard.php    
+
+------------- Version: 1.0.7.2 { 02/Dec/2010 } -------------
+* : fix style for admin booking on chrome
+* : fix plugin compatible plugin
+* : fix error for add new room type 
+* : File was updated: /admin/add_booking.php, /header.php, /single-roomtype.php, /admin/add_roomtype.php, /style.css
+
+------------- Version: 1.0.7.3 { 04/Jan/2011 } -------------
+* : fix language errors (display) 
+* : File was updated: /lang/tr.mo, /lang/tr.po, /lang/default.mo, /lang/default.po, /page-98.php, /searchform.php,
+ /admin/add_booking.php, /admin/layout_settings.php, /admin/location_settings.php, /admin/settings.php, 
+ /functions/links.php, /index.php, /functions/form_process.php, /style.css
+
+------------- Version: 1.0.7.4 { 14/Jan/2011 } -------------
+*: change editor for add roomtype
+* : File was updated: /admin/add_roomtype.php, /style.css
+
+------------- Version: 1.0.7.5 { 27/Jan/2011 } -------------
+*: fix language and send mail function
+* : File was updated: /booking.php, /paypal_success.php, /admin/functions-sub.php, /lang/default.mo,/lang/default.po
+	/lang/tr.mo, /lang/tr.po, /style.css
+
+------------- Version: 1.0.7.6 { 23/Feb/2011 } -------------
+*: fix display error (content part)
+*: remove unuse code
+-: change permisson for adminstrator side (author, contributor, editor, administrotr can access settings)
++: add function send mail for admin when customer booking room 
+* : File was updated: /page.php, /css/master.css, /roomtypes.php, /admin/functions-sub.php, /admin/functions-sub.php, 
+			/page-98.php, /paypal_success.php, /lang/default.mo,/lang/default.po,/lang/tr.mo,
+			/lang/tr.po, /style.css
+			
+------------- Version: 1.0.7.7 { 01/Mar/2011 } -------------
+*: fix permalink for post( post, roomtype, page )
+*: fix javascript errors for searchform
+* : File was updated: /functions/mywidget.php, /header.php, /header-index.php, /searchform.php, 
+					/js/calendar.js, /js/js.js, /searchform.php, /style.css, /Change Log.txt
+
+------------- Version: 1.0.7.8 { 24/Mar/2011 } -------------
+*: fix language spelling
+*: fix error "Page not found" when link from search page to Contact Us
+*: send mail error when booking successful by Paypal
+*: File was updated: /booking.php, /paypal_success.php, /check_result.php, /lang/default.mo, /lang/default.po, /search.php,
+                      style.css
+
+------------- Version: 1.0.7.9 { 13/Apr/2011 } -------------
+*: fix edit booking manager
+*: File was updated: /category.php, /page-98.php, /page-99.php, /page.php, /roomtypes.php, /search.php, /single-roomtype.php, 
+					/single.php, /admin/add_booking.php
+------------- Version: 1.0.8.0 { 16/Apr/2011 } -------------
+*: fix edit booking manager
+*: File was updated: /admin/add_booking.php, /ajax/ajax_get_room.php
+
+
+------------- Version: 2.0.0.0 { 21/May/2011 } -------------
+*: Add feature: Multilanguage
+*: Add feature: Reservation Calendar
+*: Add feature: change price by date
+*: Add feature: Promotion
+*: Add feature: Transaction log
+*: Add feature: room type additional fields
+*: Add feature: room type service
+*: Update feature: Roomtype manager
+*: Update feature: Search rooms
+*: Update feature: booking option
+*: File Updated: style.css
+*: File Updated: booking-option.php
+*: File Updated: page.php
+*: File Updated: search.php
+*: File Updated: 404.php
+*: File Updated: booking.php
+*: File Updated: booking_sub.php
+
+------------- Version: 2.0.0.1 { 27/May/2011 } -------------
+*: Fix permalink error,  cufon error on IE9
+*: Files were updated: /admin/layout_settings.php, /admin/list_bookings.php, /admin/setup.php, /search.php, /page.php,
+					/css/master.css, /lang/default.mo, /lang/default.po,/booking-option.php, /booking-option.php, /functions/mywidget.php,
+					/functions/register_string.php, /single-roomtype.php, /data/countries.xml, /css/master.css, /functions/links.php,
+					/header-index.php, /header.php, /js/cufon-yui.js
+------------- Version: 2.0.0.2 { 30/May/2011 } -------------
+*: fix permalink bug
+*: File was updated: funtions/links.php
+
+------------- Version: 2.0.0.4 { 14/June/2011 } -------------
+*: Fix bug: pricing for period of time
+*: Display room fee list in days
+*: Fix bug: search room by number of adults
+*: File changed:
+	booking-option.php
+	booking.php
+	style.css
+    /admin/pricing.php
+	/admin/admin_list_pricing.php
+	/admin/admin_list_promotion.php
+	/admin/admin_pricing_edit.php
+	/admin_processing/admin_pricing_processing.php
+	/ajax/ajax_pricing_time.php
+	/functions/form_process.php
+	/functions/function_register.php
+	/functions/query.php
+	/js/cufon-yui.js
+	
+------------- Version: 2.0.0.5 { 30/June/2011 } -------------
+*: Fix bug: display pricing when users booking online and purchase 
+*: File changed:
+	style.css
+	booking-option.php
+    booking.php
+
+------------- Version: 2.0.0.6 { 1/Aug/2011} -------------
+*: Fix bug: fix various bugs
+*: File changed: 
+	lang/france.po
+	lang/france.mo
+	lang/spanish.po
+	lang/spanish.mo
+	admin/add_booking.php
+	admin/settings.php
+	admin/manager_services.php
+	admin/list_customer_field_roomtype.php
+	functions/links.php
+	functions/function_register.php
+	category.php
+	header-index.php
+	header.php
+	index.php
+	paypal_success.php
+	searchform.php
+
+------------- Version: 2.0.0.7 { 12/Sep/2011 } -------------
+*: Fix change image size.
+*: File changed:
+	roomtypes.php
+	function_register.php
+
+--------------( 1/Oct/2011 ) -----------------
+*: Fix send email not into spam.
+*: File changed: 
+	admin/list_bookings.php.
+	paypal_success.php
+	
+--------------Version 2.0.1.0( 09/Dec/2011)---------------
+*Fix display reservation calendar.
+*. File changed:
+	admin/reservations.php
+
+------------Version 2.0.1.1( 12/Dec/2011)----------------
+*Fix choose booking room in admin 
+*. File changed:
+              ajax/ajax_get_room.php
+			  
+			 
+------------Version 2.0.1.2( 14/Dec/2011)----------------
+*Fix choose booking date in admin 
+*. File changed:
+              admin/add_booking.php
+			
+
+			 
+------------Version 2.0.1.3( Mar/5/2011)----------------
+*Fix title of page
+* Fix delete Promotions
+*. File changed:
+              functions/function_register.php
+			  admin/admin_list_promotion.php
+			  admin_procesing/admin_list_promotions_processing.php
+
+			  
+------------Version 2.0.1.4( Mar/22/2011)----------------
+*Fix title of page
+* Fix permalinks
+*. File changed:
+              functions/function_register.php
+			  functions/links.php
+			  
+------------Version 2.0.1.5( Mar/28/2011)----------------
+* Fix permalinks
+*. File changed:
+			  functions/links.php
+
+
+------------Version 2.0.1.6( Apr/4/2011)----------------
+* Fix single room image
+*. File changed:
+			  functions/mywidget.php
+			  single-roomtype.php
+			  roomtypes.php
+
+------------Version 2.0.1.7( Jul/12/2012)----------------
+* Fix multilanguage for service and additional fields
+*. File changed:
+			  admin/add_custom_field_roomtype.php
+			  admin/manage_services.php
+			  ajax/ajax_option.php
+			  functions/query.php
+			  booking_option.php
+			  single-roomtype.php
+			  searchform.php
+			  style.css
+
+------------Version 2.0.1.8( Oct/24/2012)----------------
+* Fixed: - XML problem
+	 - Multilingual for successful message
+
+* Files were changed:
+	admin/add_booking.php
+	admin/settings.php
+	functions/function_register.php
+	booking.php
+	paypal_success.php
