@@ -3,7 +3,7 @@ html.ltie9 body, body{ min-width: 1140px; } .container{ max-width: 1140px; } .gd
 .body-wrapper.gdlr-boxed-style{ max-width: 1220px; } .body-wrapper.gdlr-boxed-style .gdlr-header-wrapper{ max-width: 1220px; margin: 0px auto; }
 .gdlr-logo{ max-width: 25%; }
 .gdlr-logo{ margin-top: 20px; }
-.gdlr-navigation-wrapper{ margin-top: 25px; }
+.gdlr-navigation-wrapper{ margin-top: 30px; }
 .gdlr-page-title-wrapper { background-image: url('http://localhost/pensionadeco-online/wp-content/uploads/2015/09/9653329576_56c590e554_h.jpg'); }
 h1, h2, h3, h4, h5, h6, .gdlr-title-font{ font-family: "Lubalin"; }
 body, input, textarea, select{ font-family: "Roboto"; }

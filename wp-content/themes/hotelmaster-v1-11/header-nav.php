@@ -5,13 +5,31 @@
 			<i class="fa fa-phone"></i>
 		</div>
 		<div class="text">
-  			Contacto  <span style="color:white;font-weight: bold;">24/7</span><br> 91 531 73 89
+
+  			<?php 
+  			switch (ICL_LANGUAGE_CODE) {
+  				case 'es':
+  					echo'Contacto';
+  					break;
+  				case 'fr':
+  					echo'Contact';
+  					break;
+				case 'en':
+					echo'Contact';
+  					break;
+				case 'de':
+					echo'Kontakt';
+  					break;
+  				default:
+  					# code...
+  					break;
+  			}?>  <span style="color:white;font-weight: bold;">24/7</span><br> 91 531 73 89
 		</div>
-		
+		<?php do_action('icl_language_selector'); ?>
 	</div>
 	<style>
 	#phone{
-		float:right;margin-top: 20px;width:15%;
+		float:right;margin-top: 20px;width:15%;   margin-bottom: 15px;
 	}
 	#phone .icon{
 		float:left;width:30%;
@@ -33,6 +51,7 @@
 
 		#phone{
 			display:none;
+
 		}
 
 		.gdlr-logo {

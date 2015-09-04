@@ -133,6 +133,21 @@
     		transform: scale(1.2);
 	}
 
+	.column-service-title{
+		text-align: left;
+	}
+	.gdlr-column-service-item.gdlr-type-2 .column-service-divider {
+    	margin: 0px 10px 10px 0px; 
+	}
+
+	.gdlr-column-service-item .column-service-title {
+	    margin-bottom: 12px;
+	}
+
+	.column-service-title{
+		text-align: left!important;
+	}
+
 	
 
 </style>
