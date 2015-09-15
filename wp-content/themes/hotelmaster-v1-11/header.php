@@ -75,6 +75,30 @@
 		</div>
 		<div class="top-navigation-divider"></div>
 		<?php } ?>
+		<style>
+				#responsive-language{
+					display:none;
+				}	
+				@media all and (max-width: 768px) {
+
+						#lang_sel_list ul, #lang_sel_list li {
+						    display: inline-block;
+						    padding: 0 !important;
+						    margin: 0 !important;
+						    list-style-type: none !important;
+						    padding-left: 5px!important;
+						    padding-top: 5px!important;
+						}
+						#responsive-language{
+							display:block;
+							text-align:center;
+						}
+
+					#menu-menu_de,#menu-menu_es,#menu-menu_fr,#menu-menu_en{
+						z-index:999;
+					}
+				}
+				</style>
 
 		<!-- logo -->
 		<div class="gdlr-header-inner">
@@ -108,6 +132,11 @@
 						?>
 					</div>
 				</div>
+
+				<div id="responsive-language">
+					<?php do_action('icl_language_selector'); ?>
+				</div>
+				
 				
 				<!-- navigation -->
 				<?php get_template_part( 'header', 'nav' ); ?>
